@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aku436
+- 👋 Hi, I’m @rizalxsad-hackers
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -12,4 +12,5 @@ nano
  !---
 Aku436/Aku436 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> ramadhan
+---> def fibonacci(n) 2 // A long comment demonstrating the effects of the line wrapping option. 3 return n if (0..1).include? n 4 (fibonacci(n-1) + fibonacci(n-2)) 5 end
+password:ramadhan
